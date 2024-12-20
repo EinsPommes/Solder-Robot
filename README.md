@@ -143,7 +143,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) f�
 
 ## 📧 Kontakt
 
-Projektlink: [https://github.com/yourusername/Solder-Robot](https://github.com/yourusername/Solder-Robot)
+Projektlink: [https://github.com/EinsPommes/Solder-Robot](https://github.com/EinsPommes/Solder-Robot)
 
 ---
-⌨️ mit ❤️ erstellt von [Ihr Name]
+⌨️ mit ❤️ erstellt von [Mika]
